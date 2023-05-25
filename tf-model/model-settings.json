@@ -1,0 +1,3 @@
+{
+    "name": "tf-m",
+    "implementation": "mlserver_mlflow.MLflowRuntime"}
