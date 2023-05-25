@@ -1,0 +1,3 @@
+tfy-mlflow-client==0.0.28
+cloudpickle==2.2.1
+torch==2.0.1
